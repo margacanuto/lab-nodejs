@@ -14,3 +14,5 @@ FROM [codenvy/node](https://hub.docker.com/r/codenvy/node/)
 | #       | Description           | Command  |
 | :------------- |:-------------| :-----|
 | 1      | Run | `cd ${current.project.path}/app && node app.js` |
+
+URL: http://node18.codenvy.io:44710
